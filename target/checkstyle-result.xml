@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/joao/Documents/trybe/java/acc-java-010-exercises-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/Transacao.java">
+<error line="3" severity="warning" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+<file name="/home/joao/Documents/trybe/java/acc-java-010-exercises-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/CaixaEletronico.java">
+<error line="3" severity="warning" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+<file name="/home/joao/Documents/trybe/java/acc-java-010-exercises-caixa-eletronico/src/main/java/com/trybe/acc/java/caixaeletronico/Conta.java">
+<error line="18" column="6" severity="warning" message="Unused @param tag for &apos;numeroConta&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>
